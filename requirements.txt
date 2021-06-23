@@ -1,0 +1,8 @@
+anvil-uplink==0.3.36
+imutils==0.5.4
+numpy==1.19.5
+opencv-contrib-python==4.5.2.52
+opencv-python==4.5.2.52
+pdf2image==1.15.1
+pytesseract==0.3.7
+
