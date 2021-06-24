@@ -1,1 +1,3 @@
-!apt-get install poppler-utils 
+poppler-utils 
+tesseract-ocr
+libtesseract-dev
