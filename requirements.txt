@@ -4,8 +4,7 @@ numpy==1.19.5
 opencv-python-headless
 pdf2image==1.15.1
 Pillow==6.2.0
-pytesseract==0.3.7
-tesseract-ocr
+pytesseract
 pandas==1.0.5
 matplotlib==3.2.2
 seaborn==0.10.1
